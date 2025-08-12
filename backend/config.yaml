@@ -1,0 +1,26 @@
+
+active_database: 'postgres_example'
+
+database_profiles:
+  local_sqlite:
+    type: "sqlite"
+   
+    db_path: "path/to/sample.db"
+
+  
+  postgres_example:
+    type: ""
+    host: ""
+    port: 5432
+    user: ""
+    password: ""
+    database_name: ""
+
+  
+  mysql_example:
+    type: ""
+    host: ""
+    port: 3306
+    user: ""
+    password: ""
+    database_name: ""

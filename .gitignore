@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+
+# Secrets - THIS IS THE MOST IMPORTANT PART
+.env
+
+# Local database files
+backend/data/sample.db
+
+# Node.js dependencies (if you were using React/Vue)
+frontend/node_modules/
