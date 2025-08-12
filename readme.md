@@ -41,9 +41,6 @@ Built with a professional-grade tech stack, the application prioritizes security
 - Dramatically improves the user experience for common queries by making the application more responsive.
 - Reduces redundant calls to the LLM API.
 
-### Professional UI with Speech-to-Text 🎤
-- Sleek, modern chat interface with a professional navy blue theme.
-- Includes a robust speech-to-text feature, allowing users to speak their queries directly into the application using the browser's native Web Speech API.
 
 ---
 
